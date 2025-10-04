@@ -1,4 +1,4 @@
 # kruthan
 This is my first git repository
 <br>
-Author kruthan
+Author kruthan gowda MS
